@@ -1,0 +1,27 @@
+main {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+}
+.white {
+    display: inline-block;
+    vertical-align: top;
+    height: 40vh;
+    width: 4.75vw;
+    margin-left: -1.25vw;
+    border: 1px solid black;
+    &:nth-child(1),
+    &:nth-child(6) {
+        margin: 0;
+    }
+}
+.black {
+    display: inline-block;
+    background: black;
+    height: 25vh;
+    width: 3vw;
+    margin-left: -1.75vw;
+}
