@@ -1,5 +1,8 @@
-###A blank HTML5 template for experiments
+#HTML5 piano
 
+I was bored one Saturday and decided to build a HTML piano. Simply because I felt like it. 
+
+## Basic setup
 1. `git clone git@github.com:huijing/blank-html5.git`
 2. `npm install`
 3. `gulp`
