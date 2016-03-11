@@ -44,5 +44,5 @@ ul {
   z-index: 2; }
   .black:active {
     border-bottom-width: 2px;
-    -webkit-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.4), 0 1px 0 rgba(0, 0, 0, 0.8), 0 2px 2px rgba(0, 0, 0, 0.4), 0 -1px 0 #000;
-            box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.4), 0 1px 0 rgba(0, 0, 0, 0.8), 0 2px 2px rgba(0, 0, 0, 0.4), 0 -1px 0 #000; }
+    -webkit-box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.4), 0 1px 0 rgba(0, 0, 0, 0.7), 0 2px 2px rgba(0, 0, 0, 0.4), 0 -1px 0 #000;
+            box-shadow: inset 0 -1px 1px rgba(255, 255, 255, 0.4), 0 1px 0 rgba(0, 0, 0, 0.7), 0 2px 2px rgba(0, 0, 0, 0.4), 0 -1px 0 #000; }
