@@ -10,6 +10,8 @@
 
   <link rel="stylesheet" href="styles.css">
 
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"   integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
+
   <!--[if lt IE 9]>
   <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
   <![endif]-->
@@ -17,12 +19,14 @@
 
 <body>
   <main>
-    <ul>
+    <ul class="keys" onclick="noteId()">
       <li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li>
-    </ul><!--
+    </ul class="keys" onclick="noteId()"><!--
    --><ul>
       <li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li><li class="black"></li><li class="white"></li>
     </ul>
+
+    <h2 id="clicked-note"></h2>
   </main>
   <script src="scripts.js"></script>
 </body>

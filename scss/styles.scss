@@ -21,6 +21,11 @@ ul {
   padding: 0;
 }
 
+#clicked-note {
+  font-family: sans-serif;
+  font-size: 24px;
+}
+
 .white {
   background: linear-gradient(-30deg, $wild-sand, $white);
   border: 1px solid $silver;
