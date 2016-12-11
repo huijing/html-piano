@@ -19,7 +19,9 @@ ul {
   display: flex;
   list-style: none;
   justify-content: center;
+  overflow: hidden;
   padding-left: 1.75vw;
+  padding-bottom: 1em;
 }
 
 .white {
