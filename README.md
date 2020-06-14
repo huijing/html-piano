@@ -1,4 +1,4 @@
-#HTML5 piano
+# HTML5 piano
 
 I was bored one Saturday and decided to build a HTML piano. Simply because I felt like it. 
 
